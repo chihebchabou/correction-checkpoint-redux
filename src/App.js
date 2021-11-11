@@ -1,3 +1,8 @@
+import "./App.css";
+import AddTask from "./components/tasks/AddTask";
+import EditTask from "./components/tasks/EditTask";
+import ListTask from "./components/tasks/ListTask";
+
 function App() {
   return (
     <div className="container">

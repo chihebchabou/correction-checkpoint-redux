@@ -9,7 +9,6 @@ const Task = () => {
           className="fas fa-pen text-dark"
           data-bs-toggle="modal"
           data-bs-target="#editTask"
-          onClick={handleClick}
         ></i>
         <i id="delete" className="fa fa-trash text-danger"></i>
       </div>
